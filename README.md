@@ -5,7 +5,7 @@
 This is a repository with all sample executables mapping to the work done on the paper titled "Web Scraping Academic Repositories for Augmented Relevant Literature Search using CRISP-DM".
 
 This repository works on extending the reach of applying extractive summarization for relevant literature search beyond open access repositories; if not all academic repositories especially, that many repositories do not follow open access standards? 
-And, introduces a rather user-friendly advanced analytical methods using RapidMiner serving these principles of systematic reviews?
+And, introduces a rather user-friendly advanced analytical methods using RapidMiner serving these principles of systematic reviews through a ZERO code approach?
 
 The uploaded folders are labeled as follows:
 
